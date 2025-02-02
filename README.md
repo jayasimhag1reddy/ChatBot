@@ -37,7 +37,8 @@ By default, the Spring Boot application runs on **`http://localhost:8080`**.
 Open a new terminal and navigate to the `frontend` folder:  
 ```bash
 cd frontend
-pip install -r requirements.txt
+pip install streamlit
+
 ```
 
 #### **4️⃣ Start the Streamlit UI**  
@@ -61,7 +62,8 @@ Now, test the chatbot powered by the **DeepSeek model**!
   ```
 - **Python Module Not Found?** Run:  
   ```bash
-  pip install -r requirements.txt
+ pip install streamlit
+
   ```
 
 ---
