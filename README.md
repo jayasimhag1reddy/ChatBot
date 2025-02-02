@@ -62,8 +62,7 @@ Now, test the chatbot powered by the **DeepSeek model**!
   ```
 - **Python Module Not Found?** Run:  
   ```bash
- pip install streamlit
-
+  pip install streamlit
   ```
 
 ---
